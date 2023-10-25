@@ -15,6 +15,4 @@ public class Respuesta {
     @Column(name="categoria")
     private String categoria;
     // Constructores, Getters y Setters (puedes generarlos automáticamente en tu IDE)
-
-
 }
